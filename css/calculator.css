@@ -1,0 +1,25 @@
+.row_css {
+    color: white;
+    background-color:grey;
+    width: 400px;
+    height: 400px;
+    font-size: 2em;
+    text-shadow: 1em;
+    padding: 10px;
+    justify-content: center;
+}
+button{
+    color:whitesmoke;
+    background-color:rgb(200, 200, 250);
+    font-size: 2em;
+    font-weight: bold;
+    width: 100%;
+    height: 100%;
+}
+.main_div{
+    background-color: blueviolet;
+    padding: 5px;
+    margin: 20px;
+    width: 500px;
+    height: 500px;
+}
