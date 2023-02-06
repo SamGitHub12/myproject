@@ -1,0 +1,48 @@
+body{
+    background-color: aliceblue;
+    background-image: url('/home/xioc9/Desktop/assets/assets/favorite-2_th.jpg');
+    background-repeat: repeat;
+}
+header{
+    color: aquamarine;
+    background-color: blue;
+    text-decoration: dotted;
+    text-align: center;
+}
+nav ol{
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    color: blueviolet;
+    background-color: rgb(240, 119, 212);
+}
+li{
+    list-style: none;
+    margin: 5px 40px;
+    font-size: 25px;
+}
+a{
+    text-decoration: none;
+}
+main{
+    display: flex;
+    color: rgb(46, 53, 187);
+    background-color: rgb(243, 113, 113);
+    padding: 10px;
+}
+fieldset{
+    width: 100%;
+    height: 100px;
+    background-color: azure;
+    padding: 10px;
+    margin: 10px;
+}
+legend{
+    font-size: 20px;
+    font-family: cursive;
+    background-color: rgb(241, 194, 124);
+}
+footer{
+    color: blanchedalmond;
+    background-color: tomato;
+}
